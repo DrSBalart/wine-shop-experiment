@@ -1,0 +1,74 @@
+[
+  {
+    "id": "W01",
+    "brand": "OCEANO ROSE",
+    "variety": "ROSE",
+    "price": 7.9,
+    "image": "oceano_rose.png",
+    "claim": "SUSTAINABLY FARMED \u00b7 LOWER CARBON",
+    "condition": "sustainability"
+  },
+  {
+    "id": "W02",
+    "brand": "VILLA VERDE",
+    "variety": "PROSECCO",
+    "price": 12.9,
+    "image": "villa_verde.png",
+    "claim": "RICH IN ANTIOXIDANTS",
+    "condition": "health"
+  },
+  {
+    "id": "W03",
+    "brand": "SIERRA ALTA",
+    "variety": "MALBEC",
+    "price": 9.5,
+    "image": "sierra_alta.png",
+    "claim": "SUSTAINABLY FARMED \u00b7 LOWER CARBON",
+    "condition": "sustainability"
+  },
+  {
+    "id": "W04",
+    "brand": "VALLE D'ORO",
+    "variety": "CHARDONNAY",
+    "price": 9.8,
+    "image": "valle_doro.png",
+    "claim": "ESTATE BOTTLED",
+    "condition": "control"
+  },
+  {
+    "id": "W05",
+    "brand": "TERRE DI VITA",
+    "variety": "PINOT NOIR",
+    "price": 11.5,
+    "image": "terre_di_vita.png",
+    "claim": "ESTATE BOTTLED",
+    "condition": "control"
+  },
+  {
+    "id": "W06",
+    "brand": "CLOS DU MIDI",
+    "variety": "MERLOT",
+    "price": 10.2,
+    "image": "clos_du_midi.png",
+    "claim": "SUSTAINABLY FARMED \u00b7 RICH IN ANTIOXIDANTS",
+    "condition": "combined"
+  },
+  {
+    "id": "W07",
+    "brand": "ALTURA",
+    "variety": "CABERNET SAUVIGNON",
+    "price": 11.2,
+    "image": "altura.png",
+    "claim": "RICH IN ANTIOXIDANTS",
+    "condition": "health"
+  },
+  {
+    "id": "W08",
+    "brand": "LUMIERE",
+    "variety": "SAUVIGNON BLANC",
+    "price": 8.9,
+    "image": "lumiere.png",
+    "claim": "SUSTAINABLY FARMED \u00b7 RICH IN ANTIOXIDANTS",
+    "condition": "combined"
+  }
+]
